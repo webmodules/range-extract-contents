@@ -1,0 +1,35 @@
+{
+  "name": "range-extract-contents",
+  "version": "1.0.0",
+  "description": "Cross-browser polyfill for `Range#extractContents()`",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/range-extract-contents.git"
+  },
+  "keywords": [
+    "browser",
+    "dom",
+    "range",
+    "extract",
+    "contents",
+    "extractContents",
+    "polyfill",
+    "cross"
+  ],
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmodules/range-extract-contents/issues"
+  },
+  "homepage": "https://github.com/webmodules/range-extract-contents",
+  "devDependencies": {
+    "zuul": "~1.11.0"
+  },
+  "dependencies": {
+    "debug": "~2.0.0"
+  }
+}
