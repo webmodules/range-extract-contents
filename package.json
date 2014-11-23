@@ -30,6 +30,6 @@
     "zuul": "~1.11.0"
   },
   "dependencies": {
-    "debug": "~2.0.0"
+    "debug": "2"
   }
 }
